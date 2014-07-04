@@ -1,7 +1,7 @@
 {
   "name": "silkscreenjs",
   "description": "minimal modal windows with no dependencies",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
