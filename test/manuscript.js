@@ -33,11 +33,11 @@ describe('DOM Manipulation', function () {
 		// 	should.equal(manuscript.config().resize,false);
 		// });
 
-		it('should wrap each section with a table container if vertically centered',function(){});
+		it('should wrap each section with a table container if vertically centered', function () {});
 
-		it('should wrap each slide with a table container if vertically centered',function(){});
+		it('should wrap each slide with a table container if vertically centered', function () {});
 
-		it('should activate anchor link of active slide',function(){});
+		it('should activate anchor link of active slide', function () {});
 
 	});
 
